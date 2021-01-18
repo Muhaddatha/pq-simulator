@@ -1,0 +1,4 @@
+﻿  cis200-project4-main.cpp
+d:\project files from canvas\cis 200\cis200-project4\cis200-project4\cis200-project4-main.cpp(113): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\project files from canvas\cis 200\cis200-project4\cis200-project4\cis200-project4-main.cpp(172): warning C4552: '+': result of expression not used
+  CIS200-project4.vcxproj -> D:\Project files from Canvas\CIS 200\CIS200-project4\Debug\CIS200-project4.exe
